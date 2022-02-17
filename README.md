@@ -19,7 +19,7 @@ Esta sección consiste de una grilla de las cosas que me interesan con el respec
 ###Academic and Laboral Formation. 
 En este caso, se tiene una sección parecida al about me, en donde se combina la sección de texto con la descripción de la trayectoria, y la respectiva imagen con una etapa importante. 
 
-### Projects
+###Projects
 En esta sección, nuevamente se tiene una grilla con los dos principales proyectos desarrollados en la universidad.
 
 ### Footer
